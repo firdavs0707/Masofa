@@ -1,0 +1,53 @@
+.resultForPeople {
+  width: 300px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20px;
+  background-color: aqua;
+  margin-top: 10px;
+}
+
+.resultForBike {
+  width: 300px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20px;
+  background-color: aqua;
+  margin-top: 10px;
+}
+
+.resultForCar {
+  width: 300px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20px;
+  background-color: aqua;
+  margin-top: 10px;
+}
+
+.resultForTrain {
+  width: 300px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  font-size: 20px;
+  background-color: aqua;
+  margin-top: 10px;
+} 
+
+.button {
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+  margin-left: 110px;
+}
+
+.form {
+  width: 300px;
+  display: block;
+  margin-right: auto;
+  margin-left: auto;
+}
