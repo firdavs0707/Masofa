@@ -23,8 +23,6 @@ elForm.addEventListener('submit', function (event) {
   var bikeTime = (elInput.value / bycicle);
   var carTime = (elInput.value / car);
   var trainTime = (elInput.value / train);
-
-  elInput.value = '';
   
   var overAllPeople = ((peopleTime) - (Math.floor(peopleTime)) ).toFixed(1);
   var overAllBike = ((bikeTime) - (Math.floor(bikeTime)) ).toFixed(1);
